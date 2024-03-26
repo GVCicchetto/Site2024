@@ -8,6 +8,18 @@ body{
     font-family: Arial;
 }
 
+h1{
+    font-family: Arial;
+    font-size: 30pt;
+    color: white;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 20pt;
+    color: white;
+}
+
 a{
     color: yellow;
     text-decoration: none;
