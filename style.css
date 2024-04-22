@@ -26,13 +26,13 @@ a{
 }
 
 .vermelho{
-    font-size: 20pt;
+    font-size: 16pt;
+    font-family: Arial;
     color: red;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 #azul{
-    font-size: 16pt;
+    font-size: 20pt;
+    font-family: Verdana;
     color: blue;
-    font-family: Arial, Helvetica, sans-serif;
 }
